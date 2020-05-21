@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TrainOrange</folder>
+	<filename>159_100.jpg</filename>
+	<path>D:\LicPro\Projet Tut Deep_Learning\Model &amp; Dataset\fruits_training_annotate\TrainOrange\159_100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>99</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>
